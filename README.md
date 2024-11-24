@@ -9,6 +9,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 </p>
 <a name="readme-top"></a>
 
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
